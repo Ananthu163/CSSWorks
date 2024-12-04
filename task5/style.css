@@ -1,0 +1,91 @@
+.body{
+    color: aliceblue;
+}
+.spectrum{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 7px;
+    color: aliceblue;
+}
+.boxes{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 15px;
+}
+
+.box{
+    height: 60px;
+    width: 50px;
+    border: 1px solid black;
+    
+    
+}
+.box1{
+    background-color: grey;
+
+}
+.box2{
+    background-color: rgb(13, 71, 13);
+}
+.box3{
+    background-color: rgb(58, 150, 58);
+}
+.box4{
+    background-color: rgb(57, 221, 16);
+}
+.box5{
+    background-color: ghostwhite;
+}
+.boxx1{
+    background-color: orange;
+}
+.boxx2{
+    background-color:rgb(236, 47, 78);
+}
+.boxx3{
+    background-color: pink;
+}
+.boxx4{
+    background-color: blueviolet;
+}
+.boxx5{
+    background-color: purple;
+}
+.boxx6{
+    background-color: rgb(117, 38, 192);
+}
+.boxx7{
+    background-color: rgb(73, 65, 65);
+}
+.boxxx1{
+    background-color: cyan;
+}
+.boxxx2{
+    background-color: greenyellow;
+}
+.boxxx3{
+    background-color: peru;
+}
+.boxxx4{
+    background-color: rgb(218, 5, 104);
+}
+.boxxx5{
+    background-color: brown;
+}
+.boxxx6{
+    background-color: rgb(26, 235, 235);
+}
+.boxxx7{
+    background-color: aquamarine;
+}
+.boxxx8{
+    background-color: slateblue;
+}
+.boxxx9{
+    background-color: rgb(58, 5, 58);
+}

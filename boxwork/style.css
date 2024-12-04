@@ -1,0 +1,14 @@
+.border{
+    border: solid 2px black;
+}
+
+.parent{
+    background-color: green;
+    width: 75%;
+    height: 400px;
+}
+.child{
+    background-color: blueviolet;
+    width: 50%;
+    height: 200px;
+}

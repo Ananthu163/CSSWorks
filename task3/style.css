@@ -1,0 +1,24 @@
+.row{
+    border: 1px solid black;
+    background-color: rgb(211, 125, 211);
+    width: 75%;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+.col{
+    border: 1px solid black;
+    background-color: rgb(136, 40, 136);
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
